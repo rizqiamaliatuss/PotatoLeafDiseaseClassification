@@ -55,7 +55,7 @@ Change the parameter --dataset --model --label and --plot with your parameter
 
 --- run the program
 
-python predict.py --image images/alter.jpg --model output/finalprojectb1.model --label-bin output/finalprojectb1.pickle --width 64 --height 64
+python classify.py --image images/alter.jpg --model output/finalprojectb1.model --label-bin output/finalprojectb1.pickle --width 64 --height 64
 
 Change the parameter --image --model and --label with your parameter
 
