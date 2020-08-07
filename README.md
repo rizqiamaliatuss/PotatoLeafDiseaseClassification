@@ -1,4 +1,4 @@
-# PotatoLeafDiseaseClassification
+# Potato Leaf Disease Classification
 Develop a system that can classify and detect leaf diseases in potato plants based on deep learning. This system can help farmers and agricultural researchers to get accurate and fast diagnose results of disease in plants, especially in potato plant.
 
 This experiment consist of 3 major step :
@@ -57,7 +57,10 @@ python predict.py --image images/alter.jpg --model output/finalprojectb1.model -
 
 Change the parameter --image --model and --label with your parameter
 
-     
+Reference : 
+1. https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
+2. https://arxiv.org/abs/1409.1556
+3. https://www.kaggle.com/emmarex/plantdisease
   
 
 
